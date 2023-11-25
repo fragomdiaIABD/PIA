@@ -11,6 +11,6 @@ por otro lado un archivo de Python con el clásico Hola Mundo.
 ~~~
 
 ~~~
-Además se debe seguir por Twitter o Linkedin para encontrar
-comunidades, perfiles o usuarios expertos sobre la inteligencia artificial.
+Además se debe buscar por Twitter o Linkedin comunidades,
+perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
