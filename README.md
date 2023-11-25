@@ -1,17 +1,16 @@
 #  PIA
 
-=
-
 ### Tarea PIA01
 
--
-
 ~~~
-La tarea consiste en crear una cuenta de GitHub donde tienes que tener un primer repositorio que conste de dos archivos.
-Por un lado tendremos un archivo llamado Readme y servira para exponer resumidamente la descripción de la misma, y,
+La tarea consiste en crear una cuenta de GitHub donde tienes
+que tener un primer repositorio que conste de dos archivos.
+Por un lado tendremos un archivo llamado Readme y servira
+para exponer resumidamente la descripción de la misma, y,
 por otro lado un archivo de Python con el clásico Hola Mundo.
 ~~~
 
 ~~~
-Además se debe seguir por Twitter o Linkedin para encontrar comunidades, perfiles o usuarios expertos sobre la inteligencia artificial.
+Además se debe seguir por Twitter o Linkedin para encontrar
+comunidades, perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
