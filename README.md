@@ -1,8 +1,8 @@
 #  PIA
 
-![IA](https://img.shields.io/badge/IINTELIGENCIAARTIFICIAL-red)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![IA](https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-red)
+![Markdown](https://img.shields.io/badge/MARKDOWN-blue)
+![Python](https://img.shields.io/badge/PYTHON-green)
 
 ### Tarea PIA01
 
