@@ -1,8 +1,6 @@
 #  PIA
 
-![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
-![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
-![GitHub Release Date](https://img.shields.io/github/release-date/dropbox/dropbox-sdk-java)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tarea PIA01
 
