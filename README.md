@@ -1,3 +1,4 @@
+<!-- Encabezado principal -->
 #  PIA
 
 ![IA](https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-red)
