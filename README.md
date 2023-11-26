@@ -1,7 +1,11 @@
 #  PIA
 
-<span style="color:green">**Programación**</span>
-<span style="color:red">**IA**</span>
+**Programación**
+**IA**
+- !#f03c15 `#f03c15`
+- !#c5f015 `#c5f015`
+- !#1589F0 `#1589F0`
+
 
 ### Tarea PIA01
 
