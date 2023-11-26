@@ -1,7 +1,5 @@
 #  PIA
 
-[Tag: Inteligencia Artificial](#)
-
 ### Tarea PIA01
 
 ~~~
@@ -16,3 +14,5 @@ por otro lado un archivo de Python con el clásico Hola Mundo.
 Además se debe buscar por Twitter o Linkedin comunidades,
 perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
+
+[^1]: Autor: Francisco Manuel Gómez Díaz
