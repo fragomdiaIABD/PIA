@@ -1,5 +1,8 @@
 #  PIA
 
+<span style="color:green">**Programación**</span>
+<span style="color:red">**IA**</span>
+
 ### Tarea PIA01
 
 ~~~
@@ -15,4 +18,6 @@ Además se debe buscar por Twitter o Linkedin comunidades,
 perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
 
-#### Autor: Francisco Manuel Gómez Díaz
+---
+
+Autor: Francisco Manuel Gómez Díaz
