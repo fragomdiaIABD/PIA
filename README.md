@@ -1,12 +1,15 @@
 <!-- Encabezado principal -->
 #  PIA
 
+<!-- Badges -->
 ![IA](https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-red)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-blue)
 ![Python](https://img.shields.io/badge/PYTHON-green)
 
+<!-- Subencabezado -->
 ### Tarea PIA01
 
+<!-- Elementos de bloque -->
 ~~~
 La tarea consiste en crear una cuenta de GitHub donde tienes
 que tener un primer repositorio que conste de dos archivos.
@@ -20,6 +23,7 @@ Además se debe buscar por Twitter o Linkedin comunidades,
 perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
 
+<!-- Pie de página -->
 ---
 
 Autor: Francisco Manuel Gómez Díaz
