@@ -15,4 +15,4 @@ Además se debe buscar por Twitter o Linkedin comunidades,
 perfiles o usuarios expertos sobre la inteligencia artificial.
 ~~~
 
-[^1]: Autor: Francisco Manuel Gómez Díaz
+#### Autor: Francisco Manuel Gómez Díaz
